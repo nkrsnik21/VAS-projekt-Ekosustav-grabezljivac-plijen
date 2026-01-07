@@ -1,3 +1,4 @@
+VIŠEAGENTNA SIMULACIJA DINAMIKE POPULACIJA U EKOSUSTAVU GRABEŽLJIVAC - PLIJEN
 
 Kratki sažetak aplikacije
 Projekt implementira višeagentni simulacijski model u kojem svaki agent predstavlja pojedinačnu jedinku vrste plijena ili grabežljivca koja se kreće kroz prostorno podijeljeno stanište, traži hranu, razmnožava se i umire ovisno o lokalnim uvjetima. 
